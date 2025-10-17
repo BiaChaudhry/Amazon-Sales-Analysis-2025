@@ -103,7 +103,7 @@ A red marker on the chart shows the forecasted sales value.
 Certified in **Vantage Administration (Teradata)** | Passionate about **Data Science, Machine Learning, and Business Analytics**  
 
 🔗 **GitHub:** [BiaChaudhry](https://github.com/BiaChaudhry)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biachaudhry)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/biachaudhry1312/)  
 
 ---
 
