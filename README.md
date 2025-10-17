@@ -2,7 +2,7 @@
 
 # 🛒 Amazon Sales Data Analysis & Forecasting (2025)
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/BiaChaudhry/Amazon-Sales-Analysis?color=blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/BiaChaudhry/Amazon-Sales-Analysis-2025?color=blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
 ![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-green)
 ![Data Visualization](https://img.shields.io/badge/EDA-Seaborn%20%7C%20Matplotlib-orange)
